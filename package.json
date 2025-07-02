@@ -1,0 +1,23 @@
+{
+  "type": "module",
+  "dependencies": {
+    "amphtml-validator": "^1.0.38",
+    "banner": "^0.0.5",
+    "express": "^5.1.0",
+    "slugify": "^1.6.6"
+  },
+  "name": "v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "validate": "node validate.js",
+    "slugify": "node slugify.js",
+    "banner": "node banner.js",
+    "show": "node show.js",
+    "test": "echo Successfull && exit 0"
+  },
+  "keywords": ["v1"],
+  "author": "v1",
+  "license": "ISC",
+  "description": "Generate Article"
+}
