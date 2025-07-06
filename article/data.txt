@@ -1,4 +1,4 @@
-_@_AUTHOR_@_: IDOLA76
+_@_AUTHOR_@_: 
 _@_REGISTER_@_: 
 _@_LOGIN_@_: 
 
